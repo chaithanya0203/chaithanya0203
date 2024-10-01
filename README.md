@@ -11,7 +11,6 @@ I'm on an exciting journey through the tech world, diving deep into **Cybersecur
 - **Competitive Programming:** Thriving in the adrenaline of code competitions.
 
 ## 🌐 Let's Connect:
-- **Check out my journey:** [My Portfolio](https://personal-portfolio-sage-zeta.vercel.app/) (update this link with your actual portfolio if you have one)
 - **Email me:** [chaithanyakadiyala777@gmail.com](mailto:chaithanyakadiyala777@gmail.com)
 - **LeetCode Profile:** [Challenge Accepted](https://leetcode.com/u/chaithanyakadiyala777/)
 
