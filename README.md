@@ -1,8 +1,8 @@
 # 👋 Hello! I’m Chaithanya Kadiyala
 
-🌟 **Passionate Tech Explorer | Cybersecurity Enthusiast | Aspiring AI & ML Innovator**
+🌟 **Passionate Tech Explorer | Full Stack Developer | Aspiring AI & ML Innovator**
 
-I'm on an exciting journey through the tech world, diving deep into **Cybersecurity**, **Web Development**, and the fascinating realms of **Artificial Intelligence** and **Machine Learning**. My mission? To harness technology to make a difference!
+I'm on an exciting journey through the tech world, diving deep into **Latest Technologies**, **Web Development**, and the fascinating realms of **Artificial Intelligence** and **Machine Learning**. My mission? To harness technology to make a difference!
 
 ## 💡 What I’m into:
 - **Coding Wizardry:** Crafting magic with Python, JavaScript, and Java.
@@ -17,6 +17,6 @@ I'm on an exciting journey through the tech world, diving deep into **Cybersecur
 ## 🛠️ Tools of the Trade:
 - **Languages:** Python, JavaScript, Java
 - **Web Technologies:** HTML, CSS, Bootstrap, React, Node.js
-- **Databases:** MongoDB
+- **Databases:** MongoDB , Mysql
 
 🚀 Let's collaborate and create something amazing together! The future is bright, and I’m here to embrace it!
